@@ -67,3 +67,9 @@ body {
 img {
     width: 100%;
 }
+
+
+.card text-center{
+    min-height: 100%;
+    position: relative;
+}
